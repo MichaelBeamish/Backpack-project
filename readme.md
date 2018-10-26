@@ -1,3 +1,3 @@
 ## Backpack Project
 
-Description here...
+Quarter 2 project.
